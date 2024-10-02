@@ -1,4 +1,4 @@
-# Guru-bot Termux-Hosting-Guide
+# FEITH-AI Termux-Hosting-Guide
 
 ##  Prerequisites
 
